@@ -1,4 +1,4 @@
-package StrategyPattern.demo;
+package behavior.StrategyPattern.demo;
 
 import java.util.Scanner;
 

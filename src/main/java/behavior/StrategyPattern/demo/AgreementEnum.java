@@ -1,4 +1,4 @@
-package StrategyPattern.demo;
+package behavior.StrategyPattern.demo;
 
 /**
  * 平台协议枚举类

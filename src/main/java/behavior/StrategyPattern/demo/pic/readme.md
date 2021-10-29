@@ -32,7 +32,7 @@
    StrategyPatternDemo，我们的演示类使用 Context 和策略对象来演示 Context 在它所配置或使用的策略改变时的行为变化。
    
    策略模式的 UML 图
-   ![](/StrategyPattern/demo/pic/strategy_pattern_uml_diagram.jpg)
+   ![](/behavior/StrategyPattern/demo/pic/strategy_pattern_uml_diagram.jpg)
 
    步骤 1
    创建一个接口。

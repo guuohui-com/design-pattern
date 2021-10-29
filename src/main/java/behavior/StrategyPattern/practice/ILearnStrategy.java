@@ -1,4 +1,4 @@
-package StrategyPattern.practice;
+package behavior.StrategyPattern.practice;
 
 /**
  * 策略模式接口

@@ -1,4 +1,4 @@
-package StrategyPattern.demo;
+package behavior.StrategyPattern.demo;
 
 /**
  * @功能职责: 策略模式上下文
