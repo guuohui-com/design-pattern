@@ -19,6 +19,7 @@ public class BuilderPattern {
     }
 }
 
+
 /**
  * 固定组合封装
  * */
